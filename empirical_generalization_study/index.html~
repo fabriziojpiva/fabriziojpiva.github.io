@@ -168,7 +168,7 @@
 					</td>
 					<td align=center width=120px>
 						<center>
-							<span style="font-size:24px"><a href='https://fabriziojpiva.github.io/empirical_generalization_study/'>[GitHub]</a></span><br>
+							<span style="font-size:24px"><a href='https://github.com/richzhang/webpage-template'>[GitHub]</a></span><br>
 						</center>
 					</td>
 				</tr>
@@ -181,7 +181,7 @@
 			<tr>
 				<td width=260px>
 					<center>
-						<img class="round" style="width:500px" src="./resources/demo_screenshot.png"/>
+						<img class="round" style="width:500px" src="./resources/teaser.png"/>
 					</center>
 				</td>
 			</tr>
@@ -201,28 +201,28 @@
 		<center><h1>Abstract</h1></center>
 		<tr>
 			<td>
-For autonomous vehicles and mobile robots to safely operate in the real world, i.e., \textit{the wild}, scene understanding models should perform well in the many different scenarios that can be encountered. In reality, these scenarios are not all represented in the model's training data, leading to poor performance. To tackle this, current training strategies attempt to either exploit additional unlabeled data with unsupervised domain adaptation (UDA), or to reduce overfitting using the limited available labeled data with domain generalization (DG). However, it is not clear from current literature which of these methods allows for better generalization to unseen data from \textit{the wild}. Therefore, in this work, we present an evaluation framework in which the generalization capabilities of state-of-the-art UDA and DG methods can be compared fairly. From this evaluation, we find that UDA methods, which leverage unlabeled data, outperform DG methods in terms of generalization, and can deliver similar performance on unseen data as fully-supervised training methods that require all data to be labeled. We show that semantic segmentation performance can be increased up to 30\% for \textit{a priori} unknown data without using any extra labeled data. 
+				This is my abstract.
 			</td>
 		</tr>
 	</table>
 	<br>
 
 	<hr>
-	<!-- <center><h1>Talk</h1></center> -->
-	<!-- <p align="center"> -->
-	<!-- 	<iframe width="660" height="395" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen align="center"></iframe> -->
-	<!-- </p> -->
+	<center><h1>Talk</h1></center>
+	<p align="center">
+		<iframe width="660" height="395" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen align="center"></iframe>
+	</p>
 
-	<!-- <table align=center width=800px> -->
-	<!-- 	<br> -->
-	<!-- 	<tr> -->
-	<!-- 		<center> -->
-	<!-- 			<span style="font-size:28px"><a href=''>[Slides]</a> -->
-	<!-- 			</span> -->
-	<!-- 		</center> -->
-	<!-- 	</tr> -->
-	<!-- </table> -->
-	<!-- <hr> -->
+	<table align=center width=800px>
+		<br>
+		<tr>
+			<center>
+				<span style="font-size:28px"><a href=''>[Slides]</a>
+				</span>
+			</center>
+		</tr>
+	</table>
+	<hr>
 
 	<center><h1>Code</h1></center>
 
